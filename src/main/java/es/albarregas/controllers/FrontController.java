@@ -12,8 +12,6 @@ import es.albarregas.models.Multiplicar;
 import es.albarregas.models.Restar;
 import es.albarregas.models.Sumar;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
